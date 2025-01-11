@@ -42,7 +42,7 @@ The left and right elements are displayed randomly, and the user must match them
 Once all pairs are matched, the script moves to the next level.
 
 ## Todolist
-⌛ Create a design for the interface.
+✔️ Create a design for the interface.
 
 ✔️ Add sound effects.
 
