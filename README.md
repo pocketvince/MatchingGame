@@ -1,5 +1,6 @@
 # MatchingGame
 ![Alt text](https://raw.githubusercontent.com/pocketvince/MatchingGame/main/demo.gif?raw=true "demo")
+
 Matching Game is a PHP script that allows pairing matches through a web interface.
 
 ## Description
